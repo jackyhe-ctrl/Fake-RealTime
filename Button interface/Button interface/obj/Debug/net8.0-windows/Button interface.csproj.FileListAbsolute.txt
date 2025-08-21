@@ -1,0 +1,17 @@
+C:\Users\jacky.he\source\repos\Button interface\Button interface\bin\Debug\net8.0-windows\Button interface.exe
+C:\Users\jacky.he\source\repos\Button interface\Button interface\bin\Debug\net8.0-windows\Button interface.deps.json
+C:\Users\jacky.he\source\repos\Button interface\Button interface\bin\Debug\net8.0-windows\Button interface.runtimeconfig.json
+C:\Users\jacky.he\source\repos\Button interface\Button interface\bin\Debug\net8.0-windows\Button interface.dll
+C:\Users\jacky.he\source\repos\Button interface\Button interface\bin\Debug\net8.0-windows\Button interface.pdb
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button_interface.Form1.resources
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.csproj.GenerateResource.cache
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.AssemblyInfoInputs.cache
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.AssemblyInfo.cs
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.csproj.CoreCompileInputs.cache
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.dll
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\refint\Button interface.dll
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.pdb
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.genruntimeconfig.cache
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\ref\Button interface.dll
+C:\Users\jacky.he\source\repos\Button interface\Button interface\obj\Debug\net8.0-windows\Button interface.sourcelink.json
